@@ -295,3 +295,27 @@ Received Import Request.
 Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ffd114320b75a289106e90ec6784646') in 0.278687 seconds 
   Import took 0.287016 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 2815.375009 seconds.
+  path: Assets/Samples/Material/New Material 3.mat
+  artifactKey: Guid(8743edee3799548e4bbb1359679eb4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Material/New Material 3.mat using Guid(8743edee3799548e4bbb1359679eb4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1850ea5aba6429135a0ad36463ab59e7') in 0.371774 seconds 
+  Import took 0.379464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 457.795091 seconds.
+  path: Assets/Samples/Material/New Material 3.mat
+  artifactKey: Guid(8743edee3799548e4bbb1359679eb4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Material/New Material 3.mat using Guid(8743edee3799548e4bbb1359679eb4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dfc8e714872041eeb4e747e9948f55b') in 0.013032 seconds 
+  Import took 0.019641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Samples/Material/Reticle.mat
+  artifactKey: Guid(c980fcd73e9c04a7fae2dbf48b0058e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Material/Reticle.mat using Guid(c980fcd73e9c04a7fae2dbf48b0058e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e84272470e3f5a0154ac6055d3130be3') in 0.011971 seconds 
+  Import took 0.018062 seconds .
+
